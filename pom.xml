@@ -128,9 +128,7 @@
       <artifactId>osdt_core</artifactId>
       <version>19.21.0.0</version>
     </dependency>
-
-
-
+    
   </dependencies>
   <build>
     <finalName>helloo-mvc</finalName>
